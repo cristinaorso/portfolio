@@ -1,91 +1,91 @@
-# Site Pessoal Cristina Bisol Orso
+# Cristina Bisol Orso Personal Website
 
-## Sobre o Projeto
+## About the Project
 
-Este repositório contém o desenvolvimento do site pessoal **Cristina Bisol Orso**, criado com foco em apresentar informações de forma elegante, objetiva e profissional.
+This repository contains the development of the **Cristina Bisol Orso Personal Website**, created to present information in an elegant, clear, and professional way.
 
-O projeto foi estruturado utilizando tecnologias web essenciais, priorizando desempenho, organização de código e boa experiência de navegação.
-
----
-
-## Objetivo
-
-Criar uma presença digital moderna e funcional, com layout limpo, responsivo e de fácil manutenção.
+The project was built using essential web technologies, focusing on performance, clean structure, and a smooth user experience.
 
 ---
 
-## Tecnologias Utilizadas
+## Objective
+
+Create a modern and functional digital presence with a clean, responsive, and easy-to-maintain layout.
+
+---
+
+## Technologies Used
 
 * HTML5
 * CSS3
 * JavaScript
-* Git e GitHub para versionamento
+* Git & GitHub for version control
 
 ---
 
-## Estrutura do Projeto
+## Project Structure
 
-```bash id="n69w3c"
+```bash id="pq7k4s"
 Site-Pessoal-Cristina-Bisol-Orso/
-│── index.html      # Estrutura principal do site
-│── style.css       # Estilização visual
-│── script.js       # Funcionalidades interativas
-│── CRISTINA.png    # Imagem principal utilizada no projeto
-│── README.md       # Documentação do projeto
+│── index.html      # Main website structure
+│── style.css       # Visual styling
+│── script.js       # Interactive features
+│── CRISTINA.png    # Main image used in the project
+│── README.md       # Project documentation
 ```
 
 ---
 
-## Funcionalidades
+## Features
 
-* Página institucional/pessoal moderna
-* Layout responsivo para dispositivos móveis
-* Estrutura simples e organizada
-* Código limpo para futuras melhorias
-* Fácil personalização visual
+* Modern personal/institutional webpage
+* Responsive layout for mobile devices
+* Clean and organized structure
+* Easy to customize and expand
+* Maintainable codebase
 
 ---
 
-## Como Executar Localmente
+## How to Run Locally
 
-1. Clone o repositório:
+1. Clone the repository:
 
-```bash id="01k4go"
-git clone https://github.com/SEU-USUARIO/Site-Pessoal-Cristina-Bisol-Orso.git
+```bash id="x4m9p1"
+git clone https://github.com/YOUR-USERNAME/Site-Pessoal-Cristina-Bisol-Orso.git
 ```
 
-2. Acesse a pasta:
+2. Access the folder:
 
-```bash id="9w4z3s"
+```bash id="s7f1ja"
 cd Site-Pessoal-Cristina-Bisol-Orso
 ```
 
-3. Abra o arquivo `index.html` no navegador.
+3. Open the `index.html` file in your browser.
 
 ---
 
-## Melhorias Futuras
+## Future Improvements
 
-* Formulário de contato
-* Integração com redes sociais
-* Animações avançadas
-* SEO otimizado
-* Hospedagem oficial
-
----
-
-## Organização
-
-Projeto mantido com atenção à estrutura, clareza e evolução contínua.
+* Contact form
+* Social media integration
+* Advanced animations
+* SEO optimization
+* Official deployment
 
 ---
 
-## Autor
+## Organization
 
-Desenvolvido por Cristina Orso / Equipe responsável.
+This project is maintained with focus on structure, clarity, and continuous improvement.
 
 ---
 
-## Licença
+## Author
 
-Este projeto é de uso pessoal e institucional.
+Developed by Cristina Orso / Responsible Team.
+
+---
+
+## License
+
+This project is intended for personal and institutional use.
