@@ -30,7 +30,6 @@ Site-Pessoal-Cristina-Bisol-Orso/
 │── index.html      # Estrutura principal do site
 │── style.css       # Estilização visual
 │── script.js       # Funcionalidades interativas
-│── CRISTINA.png    # Imagem principal utilizada no projeto
 │── README.md       # Documentação do projeto
 ```
 
